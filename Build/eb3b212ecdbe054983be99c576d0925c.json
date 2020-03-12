@@ -1,0 +1,13 @@
+{
+"companyName": "FEBE-GAMES",
+"productName": "Word Search",
+"dataUrl": "7803279fb0feee38db67af266c34ef76.unityweb",
+"wasmCodeUrl": "96cba57b6d64f20340b8c83fe4d64252.unityweb",
+"wasmFrameworkUrl": "d1cc6b7e986b255c7bd6217ba2e1e48b.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
